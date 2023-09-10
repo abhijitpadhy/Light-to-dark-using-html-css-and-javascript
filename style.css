@@ -1,0 +1,48 @@
+
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.dark-mode {
+    background-color:rgba(0, 0, 0, 0.9);
+    color: white;
+}
+
+.dark-mode h1 {
+    color: yellowgreen;
+}
+.dark-mode button {
+    color: yellowgreen;
+    background-color: black;
+}
+.dark-mode footer{
+    color: darkmagenta;
+}
+
+.btn{
+
+    background-color:yellow;
+    color:black;
+    height: 40px;
+    width: 150px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    font-family: cursive;
+    font-size: 20px;
+    box-shadow: 2px 2px 2px 2px rebeccapurple;
+    position: relative;
+    top: 100px;
+}
+.btn:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+
+}
+.foot{
+    margin-top:270px ;
+}
